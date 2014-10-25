@@ -5,21 +5,31 @@
 	font-size: 16px; 
 	color: #838994; 
 	letter-spacing: 0.03em;
+	-webkit-font-smoothing: antialiased;
 
 }
 .top-navigation > .content {
-	width: 970px;
+	width: 940px;
 	height: 70px;
 	margin: 0 auto;
 }
 .links {
 	float: right;
-	margin-top: 30px;
+	margin-top: 18px;
 }
 .content {
 	padding: 0 15px;	 
 }
 .links > li {
 	display: inline-block;
-	margin-left: 18px;
+	margin-left: 30px;
+
+}
+.top-navigation .links > .active {
+	color: #4c5058;
+	font-weight: 600;
+}
+li:hover {
+	color: black;
+	cursor: pointer;
 }

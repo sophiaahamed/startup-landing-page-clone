@@ -1,0 +1,25 @@
+/* Navigation Section */
+.top-navigation {
+	background-color: #fff;
+	font-family: 'Roboto', sans-serif; 
+	font-size: 16px; 
+	color: #838994; 
+	letter-spacing: 0.03em;
+
+}
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+}
+.links {
+	float: right;
+	margin-top: 30px;
+}
+.content {
+	padding: 0 15px;	 
+}
+.links > li {
+	display: inline-block;
+	margin-left: 18px;
+}

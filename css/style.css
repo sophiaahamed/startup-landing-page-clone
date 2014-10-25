@@ -26,9 +26,13 @@
 }
 .top-navigation .links .active {
 	color: #4c5058;
-	font-weight: 600;
+	font-weight: 500;
 }
 .top-navigation .links li:hover {
 	color: black;
 	cursor: pointer;
+}
+/* Background Image / Introduction */
+.introduction {
+	background-image: url('img/');
 }

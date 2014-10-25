@@ -1,9 +1,9 @@
 /* Navigation Section */
 .top-navigation {
-	background-color: #fff
+    background-color: #fff;
 }
 .top-navigation > .content {
-	width: 970px;
-	height: 70px;
-	margin: 0 auto;
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
 }

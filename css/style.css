@@ -154,6 +154,13 @@ button {
 	font-weight: 500;
 }
 
+.introduction .watch img {
+	position: relative;
+	margin-right: 5px;
+	top: 0.625rem;
+
+}
+
 
 
 

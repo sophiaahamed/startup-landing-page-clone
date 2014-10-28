@@ -160,7 +160,24 @@ button {
 	top: 0.625rem;
 
 }
-/* Arrow Annimation & Styles */
+
+.cases {
+	background-color: #fff;
+	overflow: hidden;
+	padding-bottom: 10rem;
+}
+
+.cases .content {
+	margin-top: 7.875rem;
+	text-align: center;
+	color: black;
+}
+
+.cases h2 {
+	font-size: 2.75rem;
+	margin-top: 1.625rem 0 3.125rem;
+	font-weight: 300;
+}
 
 
 

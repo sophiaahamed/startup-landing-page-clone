@@ -201,6 +201,22 @@ button {
 
 }
 
+.social
+{
+	text-align: center;
+}
+
+.social .icons li {
+	display: inline-block;
+	border: 1px solid #eaebec;
+	margin:1.25rem 5px;
+	padding:0.625rem 0;
+	border-radius: 1.25rem;
+	width: 2.5rem;
+	height: 2.5rem;
+
+}
+
 
 
 

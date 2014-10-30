@@ -191,7 +191,14 @@ button {
 }
 
 .cases .devices p {
-	
+	font-size: 1.313rem;
+	font-weight: 300;
+
+}
+
+.cases .devices li {
+	width: 33.3333333%;
+
 }
 
 

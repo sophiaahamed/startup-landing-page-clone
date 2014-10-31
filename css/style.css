@@ -49,7 +49,8 @@ body {
 .top-navigation {
 	background-color: #fff;
     position: fixed;
-	width: 100%
+	width: 100%;
+	border-bottom: 1px solid #ddd;
 
 }
 .top-navigation > .content {
@@ -229,7 +230,10 @@ button {
 	font-size: 0.9rem;
 }
 
-
+.buy-now {
+	background-image: url('../img/buy-now-bg.jpg');
+	background-position: center bottom;
+}
 
 
 

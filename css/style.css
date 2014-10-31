@@ -131,7 +131,7 @@ button {
 }
 
 button:hover {
-	background-color: red;
+	background-color: #d9400e;
 	cursor: pointer;
 }
 
